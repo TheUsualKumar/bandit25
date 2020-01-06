@@ -1,2 +1,2 @@
 # bandit25
-script for brute forcing OverTheWire bandit level 25 PIN
+script for brute forcing OverTheWire bandit level 25 PIN and finding the password
